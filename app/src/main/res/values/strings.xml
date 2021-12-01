@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">My Application</string>
+    <string name="hello">Hello!</string>
+    <string name="bye">Bye</string>
+    <string name="next_activity">Next activity</string>
+    <string name="select">select</string>
+</resources>
